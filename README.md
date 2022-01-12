@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HariomDubey
-- 👀 I’m interested in web applications development..
-- 🌱 I’m currently learning angular/react/node
-- 💞️ I’m looking to collaborate on angular/react/node
+- 👀 I’m interested in web applications development.
+- 💞️ I’m looking to collaborate on angular/react/node.
 - 📫 How to reach me - hariomdubey.sw@gmail.com
 
 <!---
